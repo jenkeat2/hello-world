@@ -1,0 +1,3 @@
+steps:
+  - label: "First Test"
+    command: echo "Hello!"
